@@ -10,4 +10,4 @@
 ## Clarification
 - All of my final project was created by me with no Generative Artificial Intelligence circuit.
 - I used Generative Artificial Intelligence for understand the instruction only.
-- I might hard to understand my circuit without debugging the testcase.
+- It might hard to understand my circuit without debugging the testcase.
