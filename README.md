@@ -3,11 +3,12 @@
 ## Repository Structure
 
 - Lab
-- Quiz
-- Quiz
+- Quiz1
+- Quiz2
 - Final_Project(Wrong 1 testcase)
 
 ## Clarification
 - All of my final project was created by me with no Generative Artificial Intelligence circuit.
-- I used Generative Artificial Intelligence for understand the instruction only.
+- In Final Project, I used Generative Artificial Intelligence for understand the instruction only.
 - It might hard to understand my circuit without debugging the testcase.
+- Quiz2 question 1 isn't 100% correct.
