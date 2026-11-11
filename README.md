@@ -8,7 +8,7 @@
 - Final_Project(Wrong 1 testcase)
 
 ## Clarification
-- All of my final project was created by me with no Generative Artificial Intelligence circuit.
+- All of my circuit was created by me with no Generative Artificial Intelligence circuit.
 - In Final Project, I used Generative Artificial Intelligence for understand the instruction only.
 - It might hard to understand my circuit without debugging the testcase.
 - Quiz2 question 1 isn't 100% correct.
