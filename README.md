@@ -10,5 +10,5 @@
 ## Clarification
 - All of my circuit was created by me with no Generative Artificial Intelligence circuit.
 - In Final Project, I used Generative Artificial Intelligence for understand the instruction only.
-- It might hard to understand my circuit without debugging the testcase.
+- It might hard to understand my circuit without debug the testcase.
 - Quiz2 question 1 isn't 100% correct.
